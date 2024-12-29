@@ -3,7 +3,7 @@
 WSCHDやWSシリーズで使用できる通信アダプタです。
 </p>
 <p>
-![image](https://github.com/user-attachments/assets/74aedc22-8a19-4b45-8a4d-44d06967bac9)
+<img src="./image.png" width="30%">
 </p>
 
 ## 必要なパーツ
